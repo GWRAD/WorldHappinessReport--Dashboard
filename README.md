@@ -55,5 +55,6 @@ This project visualizes and analyzes the 2024 World Happiness Report data using 
 
 ---
  
+![Pic1](https://github.com/user-attachments/assets/87bff103-9140-43a5-81a6-03323c44616c)
 
 > "Data doesn’t just tell stories — it reveals lives, emotions, and patterns worth understanding."
